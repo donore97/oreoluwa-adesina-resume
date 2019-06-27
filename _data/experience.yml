@@ -22,5 +22,16 @@
     - Analyzed multiple materials used for making soldier uniforms 
     - Created a simulation to micmic the impact of a bullet on these matierials to test their strength and efficiency
     - Used MATLAB to digitally represent the damage done to these materials to evidently select the materials with the best strength and efficiency ratio
-    
+
+- layout: left
+  company: Johns Hopkis University
+  link: https://www.jhu.edu
+  job_title: Digital Analyst
+  dates: Aug 2018 - Present
+  quote: >
+   Data is the Future
+  description: | # this will include new lines to allow paragraphs
+    - Analyzed the School of Education Website and the Hopkins Extreme Materials Institute website and improved the interface based on user analytics and best web practices
+    - Created innovative solutions to improve the process of colleting information from users
+    - Used HTML/CSS and API integration to improve website's appearance and processes
     
