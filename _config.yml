@@ -23,7 +23,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Oreoluwa and I'm a Computer and Electrical Engineer. gaining teamwork and leadership skills. In addition to this, I also have some experience analyzing data and interpreting the data in a form that can be understood and used to solve problems.
 
   Skills
-  <mark>Development</mark>: Data Analytics, PYTHON, JAVA, MATLAB, C, Docker, Git, Image Processing, VLSI 
+  <mark>Development</mark>: Data Analytics, PYTHON, JAVA, MATLAB, C, Docker, Git, Image Processing, VLSI \n
   <mark>Comunication</mark>: Created Initiatives for technical and executive professionals
   <mark>Leadersip</mark> Founder: AnonPi and OreoluwaAdesinaPhotography
   <mark>Holistic View</mark> Strong Understanding of Hardware concepts and Industry knowledge
