@@ -1,9 +1,26 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Johns Hopkins Hospital
+  link: https://www.hopkinsmedicine.org/the_johns_hopkins_hospital/index.html
+  job_title: Technical Consultant
+  dates: Aug 2018 - December 2018
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Healthcare is an important part of our lives, and every opportunity to make it more effective should be explored
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    - Performed multiple analyses to understand the casue of patient discharge delays after a succesful operation
+    - Developed feasible strategies to reduce these delays and presented the strategies to the major stakeholders at the Hospital
+    - Implemented the solutions from these strategies and implemented them in the patient discharge process. This enhanced workflow decreased patient wait times by 60%
+    
+    
+- layout: left
+  company: Army Research Lab/ Morgan State University
+  link: https://www.jhu.edu
+  job_title: Software Engineer Consultant
+  dates: July 2017 - June 2019
+  quote: >
+   Keeping Soldiers safe is matter of National Security
+  description: | # this will include new lines to allow paragraphs
+    - Analyzed multiple materials used for making soldier uniforms 
+    - Created a simulation to micmic the impact of a bullet on these matierials to test their strength and efficiency
+    - Used MATLAB to digitally represent the damage done to these materials to evidently select the materials with the best strength and efficiency ratio
+    
+    
