@@ -2,7 +2,9 @@
   name: Johns Hopkins University
   dates: 2018 - 2020
   qualification: MSc Engineering Management w/ a concentration in Computer Engineering
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Johns Hopkins University, I learnt a lot of valuable skills including teamwork, working on a schedule, Leadership, and also Consulting.
+  
+- layout: left
+  name: Morgan State University
+  dates: 2013 - 2017
+  qualification: BSc Electrical Engineering 
+  
