@@ -1,5 +1,5 @@
 # Site
-#repository: donore97/oreoluwa-adesina-resume
+repository: donore97/oreoluwa-adesina-resume
 # favicon: images/favicon.ico
 
 # Personal info
@@ -24,7 +24,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Skills Section
 # Skills_title: A Little More About Me and what skills I use on a somewhat daily basis
-skills_content: | # this will include new lines to allow paragraphs
+
    Skills:
   <mark>Development</mark>: Data Analytics, PYTHON, JAVA, MATLAB, C, Docker, Git, Image Processing, VLSI.
   <mark>Comunication</mark>: Created Initiatives for technical and executive professionals.
